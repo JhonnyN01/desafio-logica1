@@ -1,3 +1,3 @@
 // Desafio
-
-console.log("Oi");
+let nome = "Jhonny"
+console.log("Jhonny");
